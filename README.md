@@ -18,7 +18,7 @@ ____________________
 A registration form is a list of fields that a user will input data into and submit to an individual. Most often, these consist of users basic information which will help to identify proper user. If one fields there blank instantly this system inform you so that you can not blank any fields. 
 
 ____________________________________________________________
-### ### There are mainly six portion in this System following :-
+### ### There are mainly eight portion in this System following :-
 ____________________________________________________________
   #### 	Login Form.
 
